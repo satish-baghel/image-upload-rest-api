@@ -1,11 +1,11 @@
 {
-  "short_name": "CoreUI-React",
-  "name": "CoreUI-React sample",
+  "short_name": "Image Upload",
+  "name": "Image Upload",
   "icons": [
     {
       "src": "./assets/img/favicon.png",
       "sizes": "100x100",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ],
   "start_url": ".",

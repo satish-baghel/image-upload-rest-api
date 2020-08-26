@@ -44,14 +44,7 @@ const EditProduct = ({
       });
     }
   }, [loading, newProduct]);
-  // if (img) {
-  //   const replaceImg = img.replace("./upload/images/", " ");
-  //   console.log(typeof replaceImg);
-  // }
-  // console.log(img);
-  // console.log(inputRef);
-  // const fs = new File(img);
-  // console.log(fs);
+
   const onSubmit = (e) => {
     e.preventDefault();
     let fd = new FormData();
